@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_primary">#0F6E5C</color>
+    <color name="brand_primary_dark">#0A4F42</color>
+    <color name="brand_gold">#C9A227</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="statusbar_light">#0A4F42</color>
+    <color name="night_sky_blue">#0A1128</color>
+</resources>

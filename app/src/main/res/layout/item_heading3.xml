@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    android:layout_marginTop="14dp"
+    android:layout_marginBottom="6dp"
+    android:paddingHorizontal="16dp"
+    android:paddingVertical="6dp">
+
+    <ImageButton
+        android:id="@+id/starBtn"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:src="@drawable/ic_star_outline"
+        android:contentDescription="@string/bookmark" />
+
+    <TextView
+        android:id="@+id/headingText"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_marginStart="10dp"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:textColor="#C9A227"
+        android:gravity="center_vertical"
+        android:textDirection="rtl" />
+
+</LinearLayout>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/headingText"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="18dp"
+    android:layout_marginBottom="8dp"
+    android:paddingHorizontal="16dp"
+    android:paddingVertical="10dp"
+    android:paddingStart="20dp"
+    android:textSize="17sp"
+    android:textStyle="bold"
+    android:textColor="#0A4F42"
+    android:gravity="center_vertical"
+    android:textDirection="rtl"
+    android:background="#EAF3F1" />

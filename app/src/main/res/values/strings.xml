@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مفاتیح الجنان</string>
+    <string name="search_hint">جستجو در متن و فهرست…</string>
+    <string name="toc_title">فهرست مفاتیح الجنان</string>
+    <string name="settings_title">تنظیمات نمایش</string>
+    <string name="font_section">فونت متن</string>
+    <string name="theme_section">تم رنگی</string>
+    <string name="font_size_section">اندازه قلم</string>
+    <string name="translation_section">نمایش ترجمه فارسی</string>
+    <string name="share">اشتراک‌گذاری</string>
+    <string name="copy">کپی</string>
+    <string name="copied">متن کپی شد</string>
+    <string name="no_results">موردی یافت نشد</string>
+    <string name="results_count">%1$d نتیجه یافت شد</string>
+    <string name="bookmark">نشان‌گذاری</string>
+    <string name="bookmarks_title">علاقه‌مندی‌های نشان‌شده</string>
+    <string name="no_bookmarks">هنوز چیزی نشان‌گذاری نکرده‌اید.\nروی ستاره‌ی کنار هر عنوان دعا بزنید.</string>
+    <string name="bookmark_added">به علاقه‌مندی‌ها اضافه شد</string>
+    <string name="bookmark_removed">از علاقه‌مندی‌ها حذف شد</string>
+    <string name="salawat_text">اَللّهُمَّ صَلِّ عَلَی مُحَمَّدِِ وَ آلِ مُحَمَّد\nوَ عَجِّل فَرَجَهُم وَ العَن اَعدائَهُم اَجمعین</string>
+    <string name="about_title">درباره برنامه</string>
+    <string name="about_app_desc">اپلیکیشن مطالعه‌ی کتاب مفاتیح الجنان</string>
+    <string name="about_developer_label">برنامه‌نویس</string>
+    <string name="about_developer_name">امید شاهین‌مهر</string>
+    <string name="about_email_label">ایمیل</string>
+    <string name="about_email_value">omidshahinmehr@gmail.com</string>
+    <string name="about_version_prefix">نسخه</string>
+</resources>
